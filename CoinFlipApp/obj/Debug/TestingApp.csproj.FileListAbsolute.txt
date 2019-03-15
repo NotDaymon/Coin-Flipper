@@ -1,0 +1,10 @@
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\TestingApp.csprojAssemblyReference.cache
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.GenerateResource.cache
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.CoreCompileInputs.cache
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\CoinFlipApp.Form1.resources
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\CoinFlipApp.Properties.Resources.resources
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\bin\Debug\CoinFlipApp.exe.config
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\bin\Debug\CoinFlipApp.exe
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\bin\Debug\CoinFlipApp.pdb
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\CoinFlipApp.exe
+C:\Users\Daymon\source\repos\C# Fun\TestingApp\TestingApp\obj\Debug\CoinFlipApp.pdb

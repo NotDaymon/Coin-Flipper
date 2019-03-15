@@ -1,0 +1,14 @@
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\bin\Debug\CoinFlipApp.exe.config
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\bin\Debug\CoinFlipApp.exe.manifest
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\bin\Debug\CoinFlipApp.application
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\bin\Debug\CoinFlipApp.exe
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\bin\Debug\CoinFlipApp.pdb
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.Form1.resources
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.Properties.Resources.resources
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.csproj.GenerateResource.cache
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.csproj.CoreCompileInputs.cache
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.exe.manifest
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.application
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.exe
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.pdb
+C:\Users\Daymon\source\repos\CoinFlipApp\CoinFlipApp\obj\Debug\CoinFlipApp.csprojAssemblyReference.cache
