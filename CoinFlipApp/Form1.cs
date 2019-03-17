@@ -37,7 +37,7 @@ namespace CoinFlipApp
         {
             mouseDown = true;
             lastLocation = e.Location;
-            OnFlippedCoinHandler = new FlippedCoinHandler(OnFlippedCoin);
+            
         }
 
         private void Form1_MouseMove(object sender, MouseEventArgs e)
@@ -61,6 +61,8 @@ namespace CoinFlipApp
             this.MouseDown += new MouseEventHandler(Form1_MouseDown);
             this.MouseUp += new MouseEventHandler(Form1_MouseUp);
             this.MouseMove += new MouseEventHandler(Form1_MouseMove);
+            
+            OnFlippedCoinHandler = new FlippedCoinHandler(OnFlippedCoin);
         }
 
         private void button2_Click(object sender, EventArgs e)
