@@ -16,6 +16,8 @@ Honestly out of boredom. I often like to pick random "issues" that could be solv
 * A clear log option
 * A toggle to speed up the coin toss
 
+# Issues
+* I'd like to note that the code for this project is not entirely-industry approved. Theres coding practices I utilize that are a bit behind the curve, and I'd like for you to keep that in mind when reading the source code. My future projects will almost always be industry-approved, but this project I didn't care too much for coding practices and the like.
 
 # Preview
 
